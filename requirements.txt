@@ -1,4 +1,4 @@
 streamlit
 metplotlib
 numpy
-math
+streamlit_option_menu
